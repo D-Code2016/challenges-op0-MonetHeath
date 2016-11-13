@@ -13,8 +13,9 @@ Write user stories for the above web page.
 To complete this challenge you will need to add the solution to this file. To add to the file, click the file to open it then click the pencil icon to make it editable.
 
 **ENTER YOUR SOLUTION HERE***
-
-
+"As a online user, I want a simple grey background and black text, so that I can see the words better."
+"As a online user, I want a large header centered at the top of the screen, so that I know what page I am on."
+"As a online user, I want a log in button in the center of the page, so that I can enter my information to take me to a new web page."
 **Solution End**
 
 
